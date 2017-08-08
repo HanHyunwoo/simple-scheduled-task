@@ -1,3 +1,9 @@
+# MAVEN target folder
+/target
+
+# Eclipse settings file
+.settings
+
 # Compiled class file
 *.class
 
